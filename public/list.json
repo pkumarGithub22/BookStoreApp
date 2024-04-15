@@ -1,0 +1,91 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":60,
+        "category": "Free",
+        "image": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE="
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 20,
+        "category": "Comedy",
+        "image": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE="
+    },
+    {
+        "id":3,
+        "name":"Maths Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 100,
+        "category": "Math",
+        "image": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE="
+    },
+    {
+        "id":4,
+        "name":"Science Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE="
+    },
+    {
+        "id":5,
+        "name":"Travel Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 80,
+        "category": "Travel",
+        "image": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE="
+    },
+    {
+        "id":6,
+        "name":"Love Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE="
+    },
+    {
+        "id":7,
+        "name":"Chlid Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 50,
+        "category": "Child",
+        "image": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE="
+    },
+    {
+        "id":8,
+        "name":"Food Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE="
+    },
+    {
+        "id":9,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 510,
+        "category": "Child",
+        "image": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE="
+    },
+    {
+        "id":10,
+        "name":"Video Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE="
+    },
+    {
+        "id":11,
+        "name":"Video Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE="
+    }
+    
+]
